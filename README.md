@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Eekk2k2
 - 👀 I’m interested in graphical application development
-- 🌱 I’m currently learning Vulkan
 - 📫 How to reach me discord(Eekk2#3539)
 
 <!---
